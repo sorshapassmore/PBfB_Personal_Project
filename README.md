@@ -8,7 +8,7 @@ Climate change has long been associated with changes in chlorophyll levels in oc
 
 After we downloaded the data we needed from NOAA, we saved the file in a seperate directory especially for this project. 
 
-We then extracted the data file (in this case named: 'Oregon2_ocldb1517224912.11308.CTD.csv') into jEdit to begin writing our python codes.**However** before you can begin writing your codes, scripts, functions and so on, the access permission must be changed so that you can edit the data file.
+We then extracted the data file (in this case named: 'Oregon2_ocldb1517224912.11308.CTD.csv') into jEdit to begin writing our python codes. **However** before you can begin writing your codes, scripts, functions and so on, the access permission must be changed so that you can edit the data file.
 
 To do this, we had to open Terminal and run the following command:
 ```
