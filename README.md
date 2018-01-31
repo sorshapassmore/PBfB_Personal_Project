@@ -1,5 +1,6 @@
 # PBfB_Personal_Project - Step one
 *Written by Lina Leuttgert and Sorsha Passmore*
+
 Please read this file before using the script
 
 **Description:**
