@@ -17,4 +17,5 @@ chmod u+x Oregon2_ocldb1517224912.11308.CTD.csv
 
 If you want to clone this repository then please enter the following command in your command line in terminal: 
 ```
-git clone 
+git clone https://github.com/sorshapassmore/PBfB_Personal_Project.git
+```
