@@ -14,7 +14,7 @@ To do this, we had to open Terminal and run the following command:
 ```
 chmod u+x Oregon2_ocldb1517224912.11308.CTD.csv
 ```
-*Where chmod stands for 'change mode', 'u' stands for user (can replace with 'o' for other or 'g' for group) and +x stands for execute. All in all this command enabled the user to be able to execute the file name written directly after the command.*
+*Where chmod stands for 'change mode', 'u' stands for user (can replace with 'o' for other or 'g' for group) and +x stands for execute. This command enables the user to be able to execute the file name written directly after the command.*
 
 If you want to clone this repository then please enter the following command in your command line in terminal: 
 ```
