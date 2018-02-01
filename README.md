@@ -1,5 +1,5 @@
 # PBfB_Personal_Project - Step one
-*Written by Lina Leuttgert and Sorsha Passmore*
+*Written by Lina Luettgert and Sorsha Passmore*
 
 Please read this file before using the scripts.
 
@@ -20,12 +20,3 @@ If you want to clone this repository then please enter the following command in 
 ```
 git clone https://github.com/sorshapassmore/PBfB_Personal_Project.git
 ```
-
-Once the access permissions have been edited, we were able to create a script in python.
-For the scripts for step one please follow the links below:
-
-
-
-
-
-After the initial step, we then moved away from python and towards Rstudio. In R studio our aim was to create maps which showed the data sample points, plotted on the map according to their latitude and longitude. At the same time, we wanted the sample plots to be colour coded to show the results more clearly. Several new packages were downloaded from R in order to get the best possible map. 
